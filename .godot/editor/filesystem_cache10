@@ -1,5 +1,6 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1751769101
+::res://::1751908680
+README.md::TextFile::-1::1751770784::0::1::::<><><>0<>0<><>::
 ::res://assets/::1751759305
 ::res://assets/Dark/::1751760191
 texture_01.png::CompressedTexture2D/CompressedTexture2D::2644060547488988334::1751759305::1751759312::1::::<><><>0<>0<>6110cc57e1b1d9082ca3dcdaf33b61db<>res://.godot/imported/texture_01.png-33ceb51441fe37aa383992dc9a62a2e5.s3tc.ctex::
@@ -15,9 +16,9 @@ texture_10.png::CompressedTexture2D/CompressedTexture2D::8744850813094027139::17
 texture_11.png::CompressedTexture2D/CompressedTexture2D::1651817429942640307::1751759305::1751759306::1::::<><><>0<>0<>3e75a00f9ec83bfc3b5043a9d3a8addc<>res://.godot/imported/texture_11.png-37016b62fbcbb9def2d7999885a78bbd.ctex::
 texture_12.png::CompressedTexture2D/CompressedTexture2D::9194072139735174530::1751759305::1751759306::1::::<><><>0<>0<>e33d01beec2840390a8ae576414e9446<>res://.godot/imported/texture_12.png-e94d3ac109806b62919c65e4f8e89e59.ctex::
 texture_13.png::CompressedTexture2D/CompressedTexture2D::6080407641114857949::1751759305::1751759306::1::::<><><>0<>0<>0163ddb5a64212c4546b3f1d232eddc9<>res://.godot/imported/texture_13.png-5575aef70a04d22d6a66bd7f95fe0d46.ctex::
-::res://scenes/::1751768945
-game.tscn::PackedScene::2116521286674515694::1751768945::0::1::::<><><>0<>0<><>::uid://bdw2j5kejiegc::::res://assets/Dark/texture_01.png<>uid://78pehu0r5g6w::::res://assets/Dark/texture_04.png<>uid://dhs5ijhvptit6::::res://scripts/camera_3d.gd<>uid://dsr8slbl8m71p::::res://scenes/player.tscn
-player.tscn::PackedScene::8459792043280538003::1751768943::0::1::::<><><>0<>0<><>::uid://cxwvb8swcebed::::res://scripts/player.gd
+::res://scenes/::1751770916
+game.tscn::PackedScene::2116521286674515694::1751770916::0::1::::<><><>0<>0<><>::uid://bdw2j5kejiegc::::res://assets/Dark/texture_01.png<>uid://78pehu0r5g6w::::res://assets/Dark/texture_04.png<>uid://dhs5ijhvptit6::::res://scripts/camera_3d.gd<>uid://dsr8slbl8m71p::::res://scenes/player.tscn
+player.tscn::PackedScene::8459792043280538003::1751770916::0::1::::<><><>0<>0<><>::uid://cxwvb8swcebed::::res://scripts/player.gd
 ::res://scripts/::1751768925
-camera_3d.gd::GDScript::7689579036751566765::1751768729::0::1::::<>Camera3D<><>0<>0<><>::
-player.gd::GDScript::6433879686371707407::1751768925::0::1::::Player<>CharacterBody3D<><>0<>0<><>::
+camera_3d.gd::GDScript/GDScript::7689579036751566765::1751768729::0::1::::<>Camera3D<><>0<>0<><>::
+player.gd::GDScript/GDScript::6433879686371707407::1751768925::0::1::::Player<>CharacterBody3D<><>0<>0<><>::
